@@ -1,0 +1,8 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" 
+    xmlns:l="sap.ui.layout" 
+    xmlns="sap.m">
+    <l:VerticalLayout id="containerLayout" width="100%">
+        <l:BlockLayoutCell title="Hello world" titleAlignment="Center">
+        </l:BlockLayoutCell>
+    </l:VerticalLayout>
+</mvc:View>
